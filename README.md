@@ -3,7 +3,8 @@
 This repository provides study materials and analysis scripts to the registered 
 report in Zeitschrift für Psychologie.  
   
-This repository is registered with a DOI at zenodo: [pending]
+This repository is registered with a DOI at zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7437832.svg)](https://doi.org/10.5281/zenodo.7437832)
+
 
 ## Plots used in Delphi study
 
